@@ -316,8 +316,8 @@ EVERY AltFw issue (except AltFw issue #7) PLUS
 
 # YOU MUST BE UNENROLLED FOR SHIMBOOT TO WORK!
 
-# Powerwash your Chromebook, *this is a required step so your Chromebook wont reject the USB.*
+# Powerwash your Chromebook, *this is a required step so your Chromebook won't reject the USB.*
 
 Then, download the prebuilt, corresponding to your Chromebook's board name, *you can view your Chromebook's board name by going to ```chrome://version```*
 
-Then boot into Recovery Mode, press the keys: <kbd>Esc</kbd> + <kbd>Refresh</kbd> + <kbd>Power</kbd>.
+Then boot into Recovery Mode, press the keys: kbd>esc</kbd> + <kbd>⟳</kbd> + <kbd>⏻</kbd>.
