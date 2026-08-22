@@ -184,3 +184,6 @@ CRSH2TTY is a very funny exploit. It's a cool universal USB-less exploit that sh
 7. On the `Get connected` screen, just press `Next`, you should see `Getting your device ready`, wait on this screen, and then you should see `Choose your Chromebook's setup`. 
 9. Hooray!!!
 <img src="/img/tutorial/craaskbowl-unroll-google.png" width="400">
+
+# SORRY!!!
+# SORRY IF NEWER UNENROLLMENT METHODS AREN'T ON HERE, RIGHT NOW!
