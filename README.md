@@ -310,3 +310,10 @@ EVERY AltFw issue (except AltFw issue #7) PLUS
 # PREBUILTS
 
 # https://github.com/ading2210/shimboot/releases/tag/v1.3.0
+
+
+# NOTICE!!!
+
+# YOU MUST BE UNENROLLED FOR SHIMBOOT TO WORK!
+
+So first download the prebuilt, corresponding to your Chromebook's board name, *you can view your Chromebook's board name by going to ```chrome://version```*
