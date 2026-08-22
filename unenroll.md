@@ -59,3 +59,11 @@ Pretty cool universal USB-less unenrollment exploit that requires you to have a 
 
 Just like this \
 <img width="1217" height="216" alt="crosh-rootesc" src="https://github.com/user-attachments/assets/c163897d-e943-4cb5-b3e3-808bf5f4aee4" />
+
+5. Press `enter`.
+6. Back up all data to an external media (like a USB flash drive) or a cloud service (like Google Drive).
+7. Press `esc+⟳+⏻ ` (`esc+refresh+power`).
+8. Press `ctrl+d` and then `enter`.
+9. On the scary screen with black text at the top left, press `enter` again.
+10. Wait for ChromeOS to boot, and then go through the setup.
+11. Now you can set up ChromeOS with a personal Google account and then use [Full ROM](/readme.md#method-1-best-method-fullrom) or [AltFw](/readme.md#method-2-easiest-method-altfw--rw_legacy)!
