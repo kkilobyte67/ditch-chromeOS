@@ -6,3 +6,10 @@
 
 ## Table of Contents
 - [kkilobyte67/ditch-cros](#-----kkilobyte67ditch-chromeos---a-guide-to-ditching-chrome-os-on-your-chrome-os-device)
+* [DISCLAIMER!!!](#disclaimer)
+  * [Why remove ChromeOS?](#why-remove-chromeos)
+  * [Why make this guide?](#why-make-this-guide)
+  * [Picture Evidence](#picture-evidence)
+- [Unenrollment](unenroll.md)
+- [How?](#how)
+  * [Method 1: FullROM](#method-1-best-method-fullrom)
