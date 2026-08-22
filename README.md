@@ -1,6 +1,5 @@
-<h2 align="center">
-  <img src="img"<img src="https://github.com/kkilobyte/ditch-cros/raw/main/img/thumbnail.jpg"/>
-" width="400"/> <br>
-  kkilobyte67/ditch-cros <br>
-  A guide to ditching Chrome OS on your Chrome device
+<img width="4080" height="3072" alt="thumbnail" src="https://github.com/user-attachments/assets/4c2207b7-1113-4e45-bfde-cec4eabdc61c" />
+
+  # kkilobyte67/ditch-cros <br>
+  # A guide to ditching Chrome OS on your Chrome device
 </h2>
