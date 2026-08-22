@@ -3,3 +3,6 @@
   # kkilobyte67/ditch-cros <br>
   # A guide to ditching Chrome OS on your Chrome device
 </h2>
+
+## Table of Contents
+- [kkilobyte67/ditch-cros](#-----kkilobyte67ditch-chromeos---a-guide-to-ditching-chrome-os-on-your-chrome-os-device)
