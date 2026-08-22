@@ -320,4 +320,4 @@ EVERY AltFw issue (except AltFw issue #7) PLUS
 
 Then, download the prebuilt, corresponding to your Chromebook's board name, *you can view your Chromebook's board name by going to ```chrome://version```*
 
-Then boot into Recovery Mode, press the keys: kbd>esc</kbd> + <kbd>⟳</kbd> + <kbd>⏻</kbd>.
+Then boot into Recovery Mode, press the keys: Esc + <kbd>⟳</kbd> + <kbd>⏻</kbd>
