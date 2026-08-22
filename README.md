@@ -306,3 +306,7 @@ EVERY AltFw issue (except AltFw issue #7) PLUS
 6. Pretty mediocore install guide (FROM Libre themselves!!!)
 
 # Shimboot
+
+# PREBUILTS
+
+# https://github.com/ading2210/shimboot/releases/tag/v1.3.0
