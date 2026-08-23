@@ -29,6 +29,7 @@
   * [Shim](#shim)
   * [Libreboot](#libreboot)
   * [Shimboot](#shimboot)
+  * [Firmware-Limitations.md](https://github.com/kkilobyte67/ditch-chromeOS/blob/main/firmware-limitations.md)
 
  <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
