@@ -322,6 +322,10 @@ Then, download the prebuilt, corresponding to your Chromebook's board name, *you
 
 Then boot into Recovery Mode, press the keys: Esc + <kbd>⟳</kbd> + <kbd>⏻</kbd>
 
+# And both the Username & Password for the Shimboot login is
+
+# User
+
 # CREDITS
 
 # Kkilobyte & ading2210
