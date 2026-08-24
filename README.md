@@ -321,8 +321,7 @@ EVERY AltFw issue (except AltFw issue #7) PLUS
 
 Then, download the prebuilt, corresponding to your Chromebook's board name, *you can view your Chromebook's board name by going to ```chrome://version```*
 
-Then boot into Recovery Mode, press the keys: Esc + <kbd>⟳</kbd> + <kbd>⏻</kbd>
-
+Then boot into Recovery Mode, press the keys: `esc+⟳+⏻`
 # And both the Username & Password for the Shimboot login is
 
 # User
